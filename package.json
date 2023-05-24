@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Calculation Function Unit Test",
+  "main": "javascript_function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emrys1224/Refocus-Unit-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Emrys1224/Refocus-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/Emrys1224/Refocus-Unit-Testing#readme"
+}
